@@ -40,7 +40,6 @@ Tìm file main.exe và chạy file.
 - Sử dụng các thuật toán cơ bản như thuật toán xử lý va chạm, animation,....
 - Hệ thống tile-map nhiều lớp xếp chồng lên nhau và có những chức năng riêng (collision, monster, map)
 
-- 
 **VI, Kết luận**
   ame còn nhiều thiếu sót, cần được cải tiến nhiều hơn.
    
