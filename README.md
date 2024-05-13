@@ -16,4 +16,4 @@ Installation
   2.Download this .zip file
   3.Running the game :3
 Development
-  TruongHoang2004(https://github.com/TruongHoang2004)
+
