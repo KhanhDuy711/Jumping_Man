@@ -7,10 +7,12 @@ Mục lục
 5. Hỗ trợ
 6. Kết luận
 7. Tham Khảo
+
+   
 I, Hướng dẫn cài đặt và chạy game
 B1: Tải project về
 Cách 1: Trên Github, chọn Code => Download ZIP
-Cách 2: Mở terminal tại thư mục muốn lưu project, sử dụng lệnh git init để khởi tạo Git, sau đó dùng lệnh git clone https://github.com/duon9/ProjectSDL.git để clone project về máy
+Cách 2: Mở terminal tại thư mục muốn lưu project, sử dụng lệnh git init để khởi tạo Git, sau đó dùng lệnh git clone https://github.com/KhanhDuy711/Jumping_Man để clone project về máy
 
 B2: Chạy game
 Tìm file main.exe và chạy file.
