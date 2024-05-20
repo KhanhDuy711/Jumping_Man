@@ -4,9 +4,7 @@ Mục lục
 2. Mô tả chung về trò chơi
 3. Các chức năng của trò chơi
 4. Các kĩ thuật lập trình được sử dụng
-5. Hỗ trợ
-6. Kết luận
-7. Tham Khảo
+5. Kết luận
 
    
 **I, Hướng dẫn cài đặt và chạy game**
@@ -41,6 +39,6 @@ Tìm file main.exe và chạy file.
 - Sử dụng các thuật toán cơ bản như thuật toán xử lý va chạm, animation,....
 - Hệ thống tile-map nhiều lớp xếp chồng lên nhau và có những chức năng riêng (collision, monster, map)
 
-**VI, Kết luận**
+**V, Kết luận**
   ame còn nhiều thiếu sót, cần được cải tiến nhiều hơn.
    
